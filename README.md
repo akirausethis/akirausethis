@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Kelvin Marcello Piter!
 
-<!--
-**akirausethis/akirausethis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on building my GitHub Profile
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Kotlin, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm currently majoring in Informatics at Ciputra University, where I'm diving deep into the world of coding and technology.
+
+💻 I have a passion for programming, particularly in Java, HTML, CSS, and PHP. I'm excited to build various projects, especially games and websites, that bring ideas to life!
+
+🎨 Outside of coding, I enjoy editing, drawing, and writing, which helps fuel my creativity and problem-solving skills.
+
+🚀 I'm always eager to learn and collaborate on new projects. Feel free to check out my repositories and connect with me!
